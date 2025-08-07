@@ -4,6 +4,7 @@ My name is Nicholas Lucky, and I enjoy coding and working to build software. I h
 - 🌱 I’m currently learning JavaScript and React.JS
 - 🎓 I'm currently studying at the University of Florida
 - 😄 Pronouns: He/Him
+- ⚡ Fun fact: Contrary to popular belief, ducks actually do not like butter that much! 🧈🦆
 
 <!--
 **Nicholas-Lucky/Nicholas-Lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
