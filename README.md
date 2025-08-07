@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋👋👋
+My name is Nicholas Lucky, and I enjoy coding and working to build software. I have interests in Web Development, Game Development, Data Science and Handling, and Artificial Intelligence, and I am more than welcome to explore other Computer Science-related fields.
+- 🔭 I’m currently working on _math-game-website_
+- 🌱 I’m currently learning JavaScript and React.JS
+- 🎓 I'm currently studying at the University of Florida
+- 😄 Pronouns: He/Him
 
 <!--
 **Nicholas-Lucky/Nicholas-Lucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
